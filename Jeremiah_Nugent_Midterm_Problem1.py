@@ -1,4 +1,4 @@
-
+#This file is my first project in my Midterm assignment.
 # In[1]:
 #Jeremiah Nugent- Midterm .py file
 # PROJECT 1

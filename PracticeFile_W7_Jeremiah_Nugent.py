@@ -1,4 +1,4 @@
-
+#For this practice file from week 7, we learned how to color code our lines
 # In[1]:
 #Accessing the first item from the list colors
 colors = ['red', 'green', 'blue']

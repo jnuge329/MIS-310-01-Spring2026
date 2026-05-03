@@ -1,4 +1,4 @@
-
+#This file is my sixth Individual assignment in the course.
 # In[1]:
 # Jeremiah Nugent- IA #6
 

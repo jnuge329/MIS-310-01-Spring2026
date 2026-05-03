@@ -1,4 +1,4 @@
-
+#In this practice file, I learned how to implement a GUI tracker.
 # In[1]:
 #First attempt without GUI tracker
 contacts = {

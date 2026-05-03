@@ -1,3 +1,4 @@
+#This file is my second project (and part 1 of ) in my Midterm assignment.
 # Jeremiah Nugent - Midterm
 #Project 2 Part 1
 

@@ -1,4 +1,4 @@
-
+#This file is my fourth Individual assignment in the course.
 # In[1]:
 #Problem #1- Max Sales by Weekday
 

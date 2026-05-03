@@ -1,4 +1,4 @@
-
+#This file is my third Individual assignment in the course.
 # In[1]:
 # Problem #1 Part A
 #Basic repetition 
